@@ -23,4 +23,10 @@
     <color name="review_green">#ff669900</color>
 
     <color name="text_light">#66000000</color>
+
+    <!-- Brand Core colours -->
+    <color name="core_orange_base">#FF7900</color>
+    <color name="core_orange_dark">#F16E00</color>
+    <color name="core_white">#FFFFFF</color>
+    <color name="core_black">#000000</color>
 </resources>
