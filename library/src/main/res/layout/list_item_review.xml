@@ -22,8 +22,8 @@
     android:baselineAligned="true"
     android:paddingLeft="@dimen/list_item_padding_left"
     android:paddingRight="@dimen/list_item_padding_right"
-    android:paddingTop="12dp"
-    android:paddingBottom="12dp">
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp">
 
     <TextView android:id="@android:id/text1"
         android:textSize="@dimen/font_size_small"
