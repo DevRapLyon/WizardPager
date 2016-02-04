@@ -23,4 +23,14 @@
     <dimen name="list_item_padding_left">6dp</dimen>
     <dimen name="list_item_padding_right">6dp</dimen>
     <dimen name="list_item_height_small">48dp</dimen>
+
+    <!-- Brand Orange sizes -->
+    <dimen name="font_size_extra_large4">112sp</dimen>
+    <dimen name="font_size_extra_large3">56sp</dimen>
+    <dimen name="font_size_extra_large2">45sp</dimen>
+    <dimen name="font_size_extra_large">34sp</dimen>
+    <dimen name="font_size_large">24sp</dimen>
+    <dimen name="font_size_common">16sp</dimen>
+    <dimen name="font_size_small">14sp</dimen>
+    <dimen name="font_size_extra_small">12sp</dimen>
 </resources>
